@@ -1,7 +1,7 @@
 # Waves Asset Price
 Waves Asset Price - это плагин, чтобы показывать информацию о ценах токенов, созданных на Waves Platform
 
-![Скриншот](https://github.com/inozemtsev-roman/Waves-Asset-Price/blob/master/screenshot.png)
+![Скриншот](https://github.com/mir-one/Waves-Asset-Price/blob/master/mir.one.png)
 
 # Установка
 
